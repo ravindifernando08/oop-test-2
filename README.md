@@ -58,6 +58,4 @@ Start System: Starts the ticketing process.
 
 Stop System: Stops the ticketing process.
 
-Exit: Exits the application.
-
 During configuration, numerical inputs are required to set the system parameters. After configuration, menu options can be selected by entering the corresponding number.
